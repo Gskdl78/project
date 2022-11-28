@@ -12,7 +12,7 @@ config/database.yml
 # 忽略所有附檔名是 .tmp 的檔案
 *.tmp
 
-*.gcode
+# *.gcode
 
 # 當然你要忽略自己也可以，只是通常不會這麼做
 # .gitignore
